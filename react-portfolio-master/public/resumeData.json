@@ -1,0 +1,109 @@
+{
+  "main": {
+    "name": "Miguel Fernández",
+    "occupation": "Software Engineering Student && JavaScript Developer",
+    "description": "Student by Day && Developer by Night",
+    "image": "Miguel.jpg",
+    "bio": "My name is Miguel, I'm a Final Year CS Student. Currently I'm finishing my Degree while learning Web Development on my free time.",
+    "contactmessage": "Get in touch with me to receive further details,  or anything else.",
+    "email": "miguelfdezc99@gmail.com",
+    "phone": "+34 123 45 67 89",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "Alicante",
+      "state": "ES",
+      "zip": "ABC 123"
+    },
+    "website": "https://www.miguelfdezc.github.io",
+    "resumedownload": "https://www.miguelfdezc.github.io",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sonny.sangha.3",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/saajansangha/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ssssangha/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/sonnysangha",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of Alicante",
+        "degree": "Bachelor's Degree in Computer Engineering",
+        "graduated": "Final Year",
+        "description": "Specialization in Software Engineering"
+      }
+    ],
+    "work": [
+      {
+        "company": "Internship",
+        "title": "Wanna hire me?",
+        "years": "2021",
+        "description": "I'm currently searching for an Intern Job for next semester. Contact info below"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "Angular",
+        "level": "80%"
+      },
+      {
+        "name": "(S)CSS",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "ReactJS Clones",
+        "category": "Web App Clones built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "The common question that gets asked in business is, ‘why?’ That’s a good question, but an equally valid question is, ‘why not?’",
+        "user": "Jeff Bezos, CEO of Amazon"
+      },
+      {
+        "text": "The first step is to establish that something is POSSIBLE, then probability will occur.",
+        "user": "Elon Musk, CEO of SpaceX, Tesla..."
+      }
+    ]
+  }
+}
